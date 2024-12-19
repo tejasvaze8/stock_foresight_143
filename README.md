@@ -1,5 +1,11 @@
+This project was intitally made on a different git account and copied to my personal hence the single commit with all the code. 
+
+
 # Stock Foresight App 
 Gather sentiment across articles for a certain company to help influence stock decisions. 
+
+We used stock market article sentiment to train both an LSTM model and LLM (llama3.1 8B) to create a sentiment score for a certain ticker symbol in any given time period. Reading articles for every single stock decision takes too long, using our app we can get a quick sentiment to understand the market standpoint on a certain company. Utilizes FinHub api to get stock article information.
+
 
 ## Files: 
 **LSTM_Training_pytorch.ipynb**: File to download financial phrasebank dataset and train / test LSTM model on the data \
