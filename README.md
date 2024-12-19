@@ -1,4 +1,4 @@
-This project was intitally made on a different git account and copied to my personal hence the single commit with all the code. 
+This project was intitally made on a different git account and copied to my personal hence the single commit with all the code. Project timeline: Nov 24 - Dec 24
 
 
 # Stock Foresight App 
